@@ -1,0 +1,9 @@
+cardboard
+fabric
+glass
+leather
+metal
+paper
+plastic
+trash
+wood

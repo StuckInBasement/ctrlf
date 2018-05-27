@@ -1,0 +1,11 @@
+*.iml
+/ctrlf/.gradle
+/ctrlf_image/.gradle
+/ctrlf/local.properties
+/ctrlf/.idea
+/ctrlf_image/.idea
+.DS_Store
+/ctrlf/build
+/ctrlf/captures
+.externalNativeBuild
+/ctrlf_image/gradleBuild
